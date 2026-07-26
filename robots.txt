@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-yu3xb6.apostasegura.digital/sitemap.xml
